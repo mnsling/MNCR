@@ -1,4 +1,4 @@
-# PROJECT MNCR (
+# PROJECT MNCR
 
 This is a fully responsive ecommerce website featuring a BTS popup: monochrome theme. The website includes:
 
@@ -16,7 +16,7 @@ Follow these steps to install the project:
 
 1. **Clone the repository:**
 
-   git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/mnsling/MNCR.git)
+   git clone https://github.com/mnsling/MNCR.git
    cd your-repository-name
 
 2. **Install the dependencies**
