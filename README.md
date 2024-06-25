@@ -16,13 +16,19 @@ Follow these steps to install the project:
 
 1. **Clone the repository:**
 
+   ```bash
    git clone https://github.com/mnsling/MNCR.git
    cd your-repository-name
+   ```
 
 2. **Install the dependencies**
 
+   ```bash
    npm i / npm install
+   ```
 
 3. **Start the development server**
 
+   ```bash
    npm run dev
+   ```
