@@ -1,4 +1,4 @@
-# ᴾʳᵒʲᵉᶜᵗ ᴹᴺᶜᴿ
+# ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​ ​🇲​​🇳​​🇨​​🇷​
 
 ![Screenshot 2024-06-25 130537](https://github.com/mnsling/MNCR/assets/115532584/7c494829-2f03-4227-94fb-a8e126b8c82a)
 
@@ -11,7 +11,7 @@ This is a fully responsive ecommerce website featuring a BTS popup: monochrome t
 
 Built using ReactJS, this project focuses on frontend development to showcase my design skills. There is no backend implementation, highlighting my ability to create visually appealing and user-friendly interfaces.
 
-## Installation
+## ​🇮​​🇳​​🇸​​🇹​​🇦​​🇱​​🇱​​🇦​​🇹​​🇮​​🇴​​🇳​
 
 Follow these steps to install the project:
 
