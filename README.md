@@ -9,7 +9,8 @@ This is a fully responsive ecommerce website featuring a BTS popup: monochrome t
 
 Built using ReactJS, this project focuses on frontend development to showcase my design skills. There is no backend implementation, highlighting my ability to create visually appealing and user-friendly interfaces.
 
-
+**
+**
 
 ## Installation
 
