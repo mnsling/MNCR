@@ -35,7 +35,7 @@ const Header = () => {
     };
 
     const handleHome = () => {
-        navigate('/');
+        navigate('/MNCR/');
     };
 
     const handleShop = () => {

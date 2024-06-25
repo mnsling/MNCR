@@ -6,13 +6,14 @@ import Shop from './pages/Shop'
 import Cloud from './pages/Cloud'
 import Events from './pages/Events'
 import { CartProvider } from './components/CartContext';
+import Header from './components/Header'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <CartProvider>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/MNCR/" element={<Home />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/events" element={<Events />} />
         <Route path="/cloud" element={<Cloud />} />
