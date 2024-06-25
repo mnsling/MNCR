@@ -1,4 +1,4 @@
-# PROJECT MNCR
+# ᴾʳᵒʲᵉᶜᵗ ᴹᴺᶜᴿ
 
 ![Screenshot 2024-06-25 130537](https://github.com/mnsling/MNCR/assets/115532584/7c494829-2f03-4227-94fb-a8e126b8c82a)
 
