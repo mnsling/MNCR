@@ -1,8 +1,28 @@
-# React + Vite
+# PROJECT MNCR (
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive ecommerce website featuring a BTS popup: monochrome theme. The website includes:
 
-Currently, two official plugins are available:
+- **Home Page**: The main landing page showcasing the BTS popup.
+- **Events Page**: Updates and information about upcoming events.
+- **Shop Page**: A section where BTS merchandise is available for purchase.
+- **Memory Cloud**: A section where you can send messages to BTS [not working tho ^.^].
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built using ReactJS, this project focuses on frontend development to showcase my design skills. There is no backend implementation, highlighting my ability to create visually appealing and user-friendly interfaces.
+
+
+## Installation
+
+Follow these steps to install the project:
+
+1. **Clone the repository:**
+
+   git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/mnsling/MNCR.git)
+   cd your-repository-name
+
+2. **Install the dependencies**
+
+   npm i / npm install
+
+3. **Start the development server**
+
+   npm run dev
