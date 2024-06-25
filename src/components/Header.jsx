@@ -57,7 +57,7 @@ const Header = () => {
                 <button><img src={menu} className='w-6 desktop:hidden' onClick={toggleMenu} /></button>
                 {menuOpen && (
                     <div className='h-full absolute top-0 left-0 right-0 mt-10 pt-10 bg-white desktop:hidden'>
-                        <div className='flex flex-col gap-60 bg-white'>
+                        <div className='flex flex-col gap-60 bg-white pb-12'>
                             <div className='flex flex-col'>
                                 <button className='py-5 border flex justify-between px-10 hover:bg-black hover:text-white button' onClick={handleShop}>
                                     <h1 className='text-3xl text-left tracking-tighter'>SHOP</h1>
